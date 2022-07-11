@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/sahityakat/reactPortfolio/static/css/main.10248341.css",
+    "main.js": "/sahityakat/reactPortfolio/static/js/main.634d31e8.js",
+    "static/js/787.30237536.chunk.js": "/sahityakat/reactPortfolio/static/js/787.30237536.chunk.js",
+    "static/media/avatar.jpg": "/sahityakat/reactPortfolio/static/media/avatar.66d0eb0dee336398c3ca.jpg",
+    "static/media/subtitle-image.jpg": "/sahityakat/reactPortfolio/static/media/subtitle-image.74065ed6ccb76a1cd43d.jpg",
+    "index.html": "/sahityakat/reactPortfolio/index.html",
+    "main.10248341.css.map": "/sahityakat/reactPortfolio/static/css/main.10248341.css.map",
+    "main.634d31e8.js.map": "/sahityakat/reactPortfolio/static/js/main.634d31e8.js.map",
+    "787.30237536.chunk.js.map": "/sahityakat/reactPortfolio/static/js/787.30237536.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.10248341.css",
+    "static/js/main.634d31e8.js"
+  ]
+}
